@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+Представяме Ви проект на тема "Как да създам култура за разделно събиране в учениците?". Името, което избраха за проекта, е "reValuate", което носи смисъл на "да дам нова стойност на нещата". Основната цел на проекта е запознаване с ползите от рециклирането на учениците и подтикването им да започнат да събират разделно боклук. Основни дейности по проекта са поставянето на кошове за разделно събиране в училище и създаване на сайт, в който може да се качват видеа и снимки как ученици изхвърлят разделно боклуци. За всеки материал получават конкретен брой точки (ел.валута), която обменят в училище за награди. За една снимка получават 2 точки, а за едно видео 3 точки. Наградният фонд е спонсориран от учениците с 1лв. и ръководството на училището. Допълнителни точки се получават при споделяне в соц. мрежи. 
+Други дейности по проекта са:
+1. Информиране за ползите от рециклирането чрез:
+- информация на сайта на проекта/ на училището
+- информация на страницата на училището в соц.мрежи
+- презентации по класове
+-  плакати на ключови места в училище
+- стените на класните стаи в google classroom
+- тик- ток видеа с образователна и забавна цел
+2. Учениците ще бъдат мотивирани да участват чрез:
+- награден фонд за участие в проекта : химикали и тефтери от рециклирани продукти, напитки, вафли, солети и голяма награда ваучер за пазаруване от голяма верига. Наградите се разпределят спрямо натрупаните точки в сайта. Те са лимитирани.
+- Сертификат за участие в извънкласни дейности от името на училището при натрупани минимум 30 точки.
+- Извинение на закъснение при натрупани минимум 24 точки.
+3. Допълнителни дейности:
+- конкурс за плакат за всички, изучаващи графичен дизайн. С всички плакати ще направим изложба, а с победителите ще направим информационната ни кампания в училище.
+-  конкурс за изработване на хендмейд неща от рециклирани материали.
+- голямо парти в двора на училището на тема рециклиране в края на юни месец, когато ще се раздадат сертификатите и големите награди
+- образователна екскурзия
+- обществено полезен труд
 
-You can use the [editor on GitHub](https://github.com/yamozha/revaluatePub/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yamozha/revaluatePub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
